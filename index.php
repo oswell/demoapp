@@ -7,6 +7,8 @@
     <title>Corporate Services</title>
     <body>
         <div id="main" class="content">
+            <p>Welcome to Corporate Services</p>
+
             <p>Username:<input type="text"></input></p>
             <p>Password:<input type="password"></input></p>
         </div>
