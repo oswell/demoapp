@@ -1,0 +1,31 @@
+html {
+  background: url(images/background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.content {
+  background-color: white;
+  padding: 24px;
+  width: 250px;
+  border: 1px solid #ccc;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.content input {
+  margin-left: 5px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 48px;
+  background-color: #ccc;
+  color: black;
+  text-align: center;
+}
